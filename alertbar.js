@@ -1,4 +1,3 @@
-<script>
   const startDate = new Date("October 30, 2025");
   const endDate = new Date("January 25, 2026");
   const currentDate = new Date();
@@ -21,4 +20,4 @@
     alertBarEl.classList.remove("d-none");
     alertBarEl.innerHTML = `Test`;
   }
-</script>
+
