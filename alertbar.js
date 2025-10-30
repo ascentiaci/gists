@@ -1,6 +1,6 @@
 export function alertBar() {
   document.addEventListener("DOMContentLoaded", () => {
-    const startDate = new Date("October 30, 2025");
+    const startDate = new Date("October 29, 2025");
     const endDate = new Date("January 25, 2026");
     const currentDate = new Date();
 
